@@ -1,2 +1,2 @@
-# Rubberduck Labs
-![This is an image](/profile/assets/lightbulb.png | width=400px)
+<img src="/profile/assets/lightbulb.png" alt="alt text" width="300px">
+
